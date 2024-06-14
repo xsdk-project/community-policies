@@ -223,7 +223,7 @@ http://trac.trilinos.org/wiki/TribitsLifecycleModelOverview#self_sustaining_soft
 [16]: http://www.dealii.org/
 [17]: https://github.com/ibaned/omega_h
 [18]: https://bitbucket.org/essex/phist
-[19]: http://icl.utk.edu/plasma/
+[19]: https://github.com/icl-utk-edu/plasma/
 [20]: https://github.com/SCOREC/core
 [21]: http://slepc.upv.es/
 [22]: https://portal.nersc.gov/project/sparse/strumpack/
@@ -232,8 +232,8 @@ http://trac.trilinos.org/wiki/TribitsLifecycleModelOverview#self_sustaining_soft
 [25]: https://github.com/ginkgo-project/ginkgo
 [26]: https://github.com/Libensemble/libensemble
 [27]: https://www.precice.org/
-[28]: https://bitbucket.org/icl/heffte/src/master/
-[29]: https://bitbucket.org/icl/slate/src/master/
+[28]: https://github.com/icl-utk-edu/heffte/
+[29]: https://github.com/icl-utk-edu/slate/
 [30]: https://github.com/arborx/arborx
 [31]: https://gitlab.pnnl.gov/exasgd/frameworks/exago
 [32]: https://github.com/LLNL/hiop
